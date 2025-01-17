@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RF_Custom")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/RF_Custom.kicad_sym")(options "")(descr ""))
+)

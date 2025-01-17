@@ -1,0 +1,122 @@
+[
+	{
+		"type": "raw",
+		"zo": 50,
+		"freq": 896,
+		"er": 1,
+		"freq_unit": {
+			"multiplier": 1000000
+		},
+		"span": 33,
+		"span_unit": {
+			"multiplier": 1000000
+		}
+	},
+	{
+		"type": "bb",
+		"real": 0.23399999999999999,
+		"imaginary": -0.096,
+		"abs": [
+			11.7,
+			-4.8
+		],
+		"unit": "null",
+		"tol": 0,
+		"line_length": 0
+	},
+	{
+		"type": "si",
+		"real": 0,
+		"imaginary": 0.5291949993118936,
+		"abs": [
+			4.7
+		],
+		"unit": [
+			"nH"
+		],
+		"tol": 0,
+		"line_length": 0
+	},
+	{
+		"type": "pc",
+		"real": 0,
+		"imaginary": -0.5224361314728708,
+		"abs": [
+			6.8
+		],
+		"unit": [
+			"pF"
+		],
+		"tol": 0,
+		"line_length": 0
+	},
+	{
+		"type": "rlc_par",
+		"real": 1.8188342181315228e-8,
+		"imaginary": 0.6031308677445586,
+		"abs": [
+			1000,
+			3.9,
+			2.2
+		],
+		"unit": [
+			"MΩ",
+			"nH",
+			"pF"
+		],
+		"tol": 0,
+		"line_length": 0
+	},
+	{
+		"type": "pc",
+		"real": 0,
+		"imaginary": -0.7558650412798982,
+		"abs": [
+			4.7
+		],
+		"unit": [
+			"pF"
+		],
+		"tol": 0,
+		"line_length": 0
+	},
+	{
+		"type": "sc",
+		"real": 0,
+		"imaginary": -0.05224361314728708,
+		"abs": [
+			68
+		],
+		"unit": [
+			"pF"
+		],
+		"tol": 0,
+		"line_length": 0
+	},
+	{
+		"type": "si",
+		"real": 0,
+		"imaginary": 1.125946807046582,
+		"abs": [
+			10
+		],
+		"unit": [
+			"nH"
+		],
+		"tol": 0,
+		"line_length": 0
+	},
+	{
+		"type": "pc",
+		"real": 0,
+		"imaginary": -1.0765350587925822,
+		"abs": [
+			3.3
+		],
+		"unit": [
+			"pF"
+		],
+		"tol": 0,
+		"line_length": 0
+	}
+]
