@@ -58,7 +58,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_overlap|125306263|84629541|ee210fb1-0838-48fa-aec3-53a971544991|4ff5cf54-ac9a-4eaa-a790-e5c5e3a42ee8"
+      ],
       "meta": {
         "version": 2
       },
@@ -179,6 +181,7 @@
       ],
       "track_widths": [
         0.0,
+        0.1524,
         0.508
       ],
       "tuning_pattern_settings": {
