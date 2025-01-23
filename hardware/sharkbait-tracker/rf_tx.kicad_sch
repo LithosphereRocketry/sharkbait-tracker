@@ -2995,7 +2995,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB_CORRECTION" "0;0;90"
+		(property "JLCPCB_CORRECTION" ""
 			(at 17.78 69.85 0)
 			(effects
 				(font
@@ -3171,7 +3171,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB_CORRECTION" "0;0;90"
+		(property "JLCPCB_CORRECTION" ""
 			(at 77.47 116.84 0)
 			(effects
 				(font
@@ -3498,7 +3498,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount"
+		(property "Footprint" "Connector_Coaxial_Custom:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount_WireWhip"
 			(at 231.14 93.98 0)
 			(effects
 				(font
@@ -3517,6 +3517,15 @@
 			)
 		)
 		(property "Description" "small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 231.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_IGNORE" "ignore"
 			(at 231.14 93.98 0)
 			(effects
 				(font
@@ -4336,7 +4345,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB_CORRECTION" "0;0;90"
+		(property "JLCPCB_CORRECTION" ""
 			(at 30.48 69.85 0)
 			(effects
 				(font
@@ -4405,6 +4414,15 @@
 			)
 		)
 		(property "Description" "Four pin crystal, GND on pins 2 and 4"
+			(at 43.18 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C843260"
 			(at 43.18 48.26 0)
 			(effects
 				(font
@@ -4573,7 +4591,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB_CORRECTION" "0;0;90"
+		(property "JLCPCB_CORRECTION" ""
 			(at 85.09 68.58 0)
 			(effects
 				(font
@@ -5122,7 +5140,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm"
+		(property "Footprint" "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias"
 			(at 57.15 74.93 0)
 			(effects
 				(font
@@ -5142,6 +5160,24 @@
 		)
 		(property "Description" "Long Range, Low Power, sub-GHz RF Transceiver"
 			(at 57.15 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5120261"
+			(at 57.15 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;0;-90"
+			(at 57.15 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)

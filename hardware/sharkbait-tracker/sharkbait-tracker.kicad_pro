@@ -58,9 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "silk_overlap|125306263|84629541|ee210fb1-0838-48fa-aec3-53a971544991|4ff5cf54-ac9a-4eaa-a790-e5c5e3a42ee8"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -657,8 +655,8 @@
       "filter_string": "",
       "group_symbols": true,
       "name": "",
-      "sort_asc": false,
-      "sort_field": "LCSC"
+      "sort_asc": true,
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
