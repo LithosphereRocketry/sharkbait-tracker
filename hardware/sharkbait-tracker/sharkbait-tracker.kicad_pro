@@ -231,10 +231,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "lib_symbol_issues|292100|609600|8a460fa0-d8ef-4d81-ae9c-fc04e141d981|00000000-0000-0000-0000-000000000000|||",
-      "lib_symbol_issues|800100|1054100|82aeb7a5-7635-424d-a540-1b2fe58014fd|00000000-0000-0000-0000-000000000000|||"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -551,6 +548,14 @@
       {
         "netclass": "RF",
         "pattern": "/RF Transmitter/ANT"
+      },
+      {
+        "netclass": "RF",
+        "pattern": "/RF Transmitter/RFO"
+      },
+      {
+        "netclass": "RF",
+        "pattern": "/RF Transmitter/VR_PA"
       }
     ]
   },
